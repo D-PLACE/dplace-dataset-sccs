@@ -1,0 +1,187 @@
+ID,Name,Latitude,Longitude,Glottocode,Name_and_ID_in_source,xd_id,alt_names_by_society,main_focal_year,HRAF_name_ID,HRAF_ID,origLat,origLong,comment,glottocode_comment,region
+SCCS2,!Kung,-19.83,20.58,juho1239,Kung (SCCS2),xd1,Kung Bushmen; !Kung (Was Nyae); Was Nyae,1950,San (FX10),FX10,-19.83,20.58,Original,,Southern Africa
+SCCS1,Nama,-27.5,17,nama1265,Nama (SCCS1),xd3,Khoekhoe; Namaqua; Nama Hottentot,1860,Khoi (FX13),FX13,-27.5,17,Original,,Southern Africa
+SCCS13,Mbuti,1.5,28.33,bila1255,Mbuti (SCCS13),xd5,Sua; BaSua; Kango; BaKango; Bambuti; BaMbuti Pygmies,1950,Mbuti (FO04),FO04,1.5,28.33,Original,"Note 8Feb2018: Changed. Focus is ""Epulu net-hunters, Ituri forest"". From White pinpointing sheets: ""The Pygmies and Pygmoid peoples of the Congo have been pushed into smaller and smaller areas of the tropical forest since the invasions of Bantu and Sudanic tribes in the 16-17th centuries, and most of the groups have adopted the languages of invading tribes with whom they allied themselves. Mbuti pygmies have adopted the languages of the Bira to the south of them, the Lese to the east, the Mangbetu and Azande to the northwest, and the Mamvu-Mangutu to the north. The [...] Epulu group studied by Turnbull situated to the north of the Ituri and Epulu Rivers, and the majority of the other groups to the south of the Ituri River [...] are net-hunters, and speak a language largely influenced by the Forest Bira."" Note, though, that Ember concordance lists the language as Lese.",West-Central Tropical Africa
+SCCS9,Hadza,-3.75,35.18,hadz1240,Hadza (SCCS9),xd9,Hadzabe; Hatsa Kindiga; Hadza; Kindiga,1930,,,-3.75,35.18,Original,,East Tropical Africa
+SCCS4,Lozi,-16,23.5,lozi1239,Lozi (SCCS4),xd26,,1900,Lozi (FQ09),FQ09,-16,23.5,Original,,South Tropical Africa
+SCCS3,Tsonga,-25.83,32.33,tson1249,Thonga (SCCS3),xd27,Thonga; Tonga; Vatsonga; Bathonga,1895,Tsonga (FT06),FT06,-25.83,32.33,Original,,South Tropical Africa
+SCCS5,Mbundu,-12.25,16.5,umbu1257,Mbundu (SCCS5),xd28,Banano; Mbari; Nano; Ovimbundu,1890,Mbundu (FP13),FP13,-12.25,16.5,Original,,South Tropical Africa
+SCCS6,Suku,-6,18,suku1259,Suku (SCCS6),xd41,,1920,,,-6,18,Original,,West-Central Tropical Africa
+SCCS7,Bemba,-10.5,30.5,town1238,Bemba (SCCS7),xd55,Awemba,1897,Bemba (FQ05),FQ05,-10.5,30.5,Original,,South Tropical Africa
+SCCS10,Luguru,-6.83,37.67,lugu1238,Luguru (SCCS10),xd81,Waluguru,1925,,,-6.83,37.67,Original,,East Tropical Africa
+SCCS11,Kikuyu,-0.67,37.17,kiku1240,Kikuyu (SCCS11),xd109,Aikikuyu,1920,Gikuyu (FL10),FL10,-0.67,37.17,Original,,East Tropical Africa
+SCCS8,Nyakyusa,-9.5,34,nyak1261,Nyakyusa (SCCS8),xd123,,1934,Nyakyusa and Ngonde (FN17),FN17,-9.5,34,Original,,East Tropical Africa
+SCCS12,Ganda,0.33,32.5,gand1255,Ganda (SCCS12),xd124,Baganda,1875,Ganda (FK07),FK07,0.33,32.5,Original,,East Tropical Africa
+SCCS14,Nkundo,-0.75,19.17,nkun1238,Nkundo Mongo (SCCS14),xd160,,1930,Mongo (FO32),FO32,-0.75,19.17,Original,,West-Central Tropical Africa
+SCCS15,Banen,4.67,10.8,tune1261,Banen (SCCS15),xd173,Banyin,1935,,,4.67,10.8,Original,,West-Central Tropical Africa
+SCCS18,Fon,7.2,1.91,fonn1241,Fon (SCCS18),xd186,Dahomey; Dahomeans,1890,,,7.2,1.91,Original,,West Tropical Africa
+SCCS17,Igbo,5.5,7.33,nucl1417,Igbo (SCCS17),xd187,Ibo,1935,Igbo (FF26),FF26,5.5,7.33,Original,,West Tropical Africa
+SCCS19,Ashanti,7,-1.5,asan1239,Ashanti (SCCS19),xd208,Twi,1895,Twi (FE12),FE12,7,-1.5,Original,,West Tropical Africa
+SCCS20,Mende,7.83,-12,mend1266,Mende (SCCS20),xd230,,1945,Mende (FC07),FC07,7.83,-12,Original,,West Tropical Africa
+SCCS22,Bambara,12.5,-7,bamb1269,Bambara (SCCS22),xd244,Bamana,1902,Bambara (FA08),FA08,12.5,-7,Original,,West Tropical Africa
+SCCS23,Tallensi,10.66,-0.57,taln1239,Tallensi (SCCS23),xd277,,1934,Tallensi (FE11),FE11,10.66,-0.57,Original,,West Tropical Africa
+SCCS16,Tiv,7.25,9,tivv1240,Tiv (SCCS16),xd320,Munshi,1920,Tiv (FF57),FF57,7.25,9,Original,,West Tropical Africa
+SCCS30,Otoro,11.33,30.67,otor1240,Otoro (SCCS30),xd338,Otoro Nuba; Nuba,1930,,,11.33,30.67,Original,,Northeast Tropical Africa
+SCCS28,Azande,5.08,28.25,zand1248,Azande (SCCS28),xd359,Niam-Niam,1905,Azande (FO07),FO07,5.08,28.25,Original,,Northeast Tropical Africa
+SCCS32,Mao,9.27,34.67,hozo1236,Mao (SCCS32),xd378,,1939,,,9.27,34.67,Original,,Northeast Tropical Africa
+SCCS31,Shilluk,9.75,31.5,shil1265,Shilluk (SCCS31),xd380,,1910,Shilluk (FJ23),FJ23,9.75,31.5,Original,,Northeast Tropical Africa
+SCCS27,Masa,10.5,15.5,masa1322,Masa (SCCS27),xd383,Massa,1910,,,10.5,15.5,Original,,Northeast Tropical Africa
+SCCS34,Maasi,-3.5,36.75,masa1300,Masai (SCCS34),xd395,Masai,1900,Masai (FL12),FL12,-3.5,36.75,Original,,East Tropical Africa
+SCCS35,Konso,5.25,37.5,kons1243,Konso (SCCS35),xd415,,1935,,,5.25,37.5,Original,,Northeast Tropical Africa
+SCCS36,Somali (Dolbahanta),9,47.25,nort3051,Somali (SCCS36),xd426,,1900,Somali (MO04),MO04,9,47.25,Original,,Northeast Tropical Africa
+SCCS33,Kafa,7.27,36.5,kafa1242,Kafa (SCCS33),xd438,Kafecho; Kaffa,1905,Kaffa (MP14),MP14,7.27,36.5,Original,,Northeast Tropical Africa
+SCCS38,Blin,15.75,38.75,bili1260,Bogo (SCCS38),xd445,Bogo; Belen; Bilin,1855,,,15.75,38.75,Original,,Northeast Tropical Africa
+SCCS37,Amhara,12.5,37.75,amha1245,Amhara (SCCS37),xd455,,1953,Amhara (MP05),MP05,12.5,37.75,Original,,Northeast Tropical Africa
+SCCS29,Fur,13.5,25.5,furr1244,Fur (SCCS29),xd466,Darfur,1880,,,13.5,25.5,Original,,Northeast Tropical Africa
+SCCS21,Wolof,13.75,-15.33,nucl1347,Wolof (SCCS21),xd469,,1950,Wolof (MS30),MS30,13.75,-15.33,Original,,West Tropical Africa
+SCCS25,Wodaabe Fulani,15,7.5,boro1274,Pastoral Fulani (SCCS25),xd474,Pastoral Fulani; Wodaabe,1951,,,15,7.5,Original,,West Tropical Africa
+SCCS26,Zazzagawa Hausa,10.5,7.5,haus1257,Hausa (SCCS26),xd476,Hausa; Zazzagawa; Hausa of Zaria; Hausa of Zazzau,1900,Hausa (MS12),MS12,10.5,7.5,Original,"Note 22Jul2021 - matched to language haus1257, replacing previous match to dialect araw1280 (this match was deemed inaccurate - according to Wikipedia, araw1280 is a northern dialect, when instead the best match would be a southern dialect. No southern dialect was found in Glottolog, hence the language-level match.) Suggestion: Glottolog should add a southern dialect. According to wikipedia page for Hausa Language, 'Zazzaganci in Zazzau is the major Southern dialect'; according to SCCS pinpointing sheets, Zazzagawa Hausa are those in the Zaria (also known as the 'Zazzau Emirate') region",West Tropical Africa
+SCCS24,Songhai,16.58,-1.67,koyr1242,Songhai (SCCS24),xd480,,1940,,,16.58,-1.67,Original,"Changed to koyr1242 from zarm1239 on 3Oct2018. Reason: The SCCS focus is on the ""Bamba, or central division"" Songhai. The Bamba dialect of Koyraboro Senni Songhai appears to dominate in the Bamba area. (""The major dialectal differences [in Koyraboro Senni Songhai] involve the Bamba area in the west versus the mainstream dialect (from the Gao area to the border). [...] Bamba [dialect] is represented by 66 pages of texts [in Heath's ""Texts in Koroboro Senni Songhay of Gao, Mali""] , enough to bring out the grammatical particularities of this variety."") (Note previous D-PLACE changes include a change on 8Feb2018 from Humburi Senni Songhay (humb1243) to Zarma-Kaado-Dendi (zarm1239). This change was incorrect, and is superceded by the change to koyr1242). Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",West Tropical Africa
+SCCS40,Teda,20.5,17.5,teda1241,Teda (SCCS40),xd498,Toubou,1950,Teda (MS22),MS22,20.5,17.5,Original,,Northeast Tropical Africa
+SCCS41,Tuareg Ahaggar,23,6.5,hogg1238,Tuareg (SCCS41),xd506,Tuareg,1900,Tuareg (MS25),MS25,23,6.5,Original,,Northern Africa
+SCCS39,Barabra,23,39.11,kenu1236,Kenuzi Nubians  (SCCS39),xd507,Kenuzi Nubians,1900,,,23,38.75,Revised,,Arabian Peninsula
+SCCS43,Egyptians,24.75,33,egyp1253,Egyptians (SCCS43),xd518,Fellahin; Fellaheen,1950,Fellahin (MR13),MR13,24.75,33,Original,,Northern Africa
+SCCS42,Riffians,34.92,-3.25,tari1263,Riffians (SCCS42),xd521,,1926,Berbers of Morocco (MX03),MX03,34.92,-3.25,Original,,Northern Africa
+SCCS48,Gheg,42,20.17,gheg1238,Gheg Albanians (SCCS48),xd528,Albanians,1910,Albanians (EG01),EG01,42,20.17,Original,,Southeastern Europe
+SCCS49,Ancient Romans,41.67,13.5,lati1261,Romans (SCCS49),xd530,Romans,110,Imperial Romans (EI09),EI09,41.67,13.5,Original,,Southeastern Europe
+SCCS50,Spanish Basques,43.25,-1.67,west1508,Basques (SCCS50),xd535,Spanish Basques,1934,Basques (EX08),EX08,43.25,-1.67,Original,,Southwestern Europe
+SCCS51,Irish,53.5,-10,iris1253,Irish (SCCS51),xd543,Gaelic,1932,Rural Irish (ER06),ER06,53.5,-10,Original,,Northern Europe
+SCCS52,Sami,68.7,21.5,nort2671,Lapps (SCCS52),xd544,Lapps,1950,Lapps (EP04),EP04,68.7,21.5,Original,"25Sept2018 - glotto id changed from nort2671 to lule1254 on 25Sept2018 as previous change was only applied to ISO code. 8April2017 - Changed from smj to sme based on comment from H. Hammarström: Haglund worked with Karesuando Saami, which is Northern Sami [sme]. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Northern Europe
+SCCS54,Russians,52.67,41.33,russ1263,Russians (SCCS54),xd548,,1955,,,52.67,41.33,Original,,Eastern Europe
+SCCS56,Armenians,40,44.5,nucl1235,Armenians (SCCS56),xd575,,1843,,,40,44.5,Original,,Caucasus
+SCCS57,Kurd,36.5,44.5,cent1972,Kurd (SCCS57),xd576,,1951,Kurd (MA11),MA11,36.5,44.5,Original,,Western Asia
+SCCS55,Abkhaz,43.13,40.77,abkh1244,Abkhaz (SCCS55),xd577,,1880,Abkhaz (RI03),RI03,43.13,40.77,Original,,Caucasus
+SCCS47,Turks,39.33,34.25,nucl1301,Turks (SCCS47),xd581,,1950,Turks (MB01),MB01,39.33,34.25,Original,,Western Asia
+SCCS46,Rwala,33.25,38.5,east2690,Rwala Bedouin (SCCS46),xd588,Rwala Bedouin,1913,Rwala (MD04),MD04,33.25,38.5,Original,"Changed from ars to avl on 8 April 2017 based on comment from H. Hammarström: The sources pertain to Bedouin tribes of the Sinai (like the Rwala) they are covered in the Eastern Egyptian Bedawi Arabic entry in Ethnologue [avl]. April 2019: Note that HRAF summary suggests a link to najd1235 (ars) is more appropriate, however najd1235 is spoken further East than the territory described by the same HRAF summary (which reports Rwala Bedouin as grazing their livestock along the Jordan-Saudia Arabia border, North to Damascus (or even Homs), South to the Nafud desert, east (sometimes) to Karbala, Iraq).",Western Asia
+SCCS44,Hebrews,31.18,34.92,anci1244,Hebrews (SCCS44),xd589,,-621,,,31.18,34.92,Original,Changed from hebr [hbr] to anci1244 [hbo] in Nov 2018 based on date of cultural observations,Western Asia
+SCCS45,Babylonians,32.58,44.75,akka1240,Babylonians (SCCS45),xd590,,-1750,,,32.58,44.75,Original,Changed from tmr to akk on 8 April 2017 based on comment from H. Hammarström: several [of the sources] deal with Babylonia in Hammurabi's time. The language spoken by this culture was Akkadian [akk].,Western Asia
+SCCS59,Punjabi,32.5,74,west2386,Punjabi (West) (SCCS59),xd600,Punjabi (West),1950,,,32.5,74,Original,"Note 8Feb2018: Changed based on note by HH: ""References look more like Western Panjabi [pnb] in Pakistan"". Focus does indeed seem to be in Western Pakistan. Note that there is an unclear note in the White SCCS pinpointing sheet for this society: ""Representative of West Punjabi (not in the Ethnographic Atlas) [sic]; Focus: Village of Mohla, Punjabi of southern Rawalpindi and northern Lahore Divisions, 32°30N and 74°E, about 1952 [...] The village of Mohla, studied by Eglar, is the most fully described, and represents the less developed form of agriculture, lacking irrigation. Coders should be careful in inferring from other village studies, since each village is highly distinctive in terms of caste composition and economic position. Honigmann's village, in the desert of southwest Rawalpindi, was founded very recently by East Punjabi are close [sic]; this village utilizes newly constructed irrigation works. The village surveys by Dass and Ghulam Yasim have not been evaluated.""",Indian Subcontinent
+SCCS58,Basseri,29,53,bass1257,Basseri (SCCS58),xd605,,1958,Basseri (MA10),MA10,29,53,Original,,Western Asia
+SCCS65,Kazakh,42.5,75.5,kaza1248,Kazak (SCCS65),xd609,Kazak,1885,Kazakh (RQ02),RQ02,42.5,75.5,Original,,Middle Asia
+SCCS66,Khalka,47.17,96.08,halh1238,Khalka Mongols (SCCS66),xd611,Xanx; Khalka Mongols,1920,Mongolia (AH01),AH01,47.17,96.08,Original,,Mongolia
+SCCS119,Nivkh,53,142,gily1242,Gilyak (SCCS119),xd617,Gilyak,1890,Nivkh (RX02),RX02,54,142.5,Revised,,Russian Far East
+SCCS121,Chukchi,66.5,179.6,chuk1273,Chukchee (SCCS121),xd631,lygoravetlyan; Ankalyn; Chavchu; Chukchee,1900,Chukchee (RY02),RY02,66.5,180,Revised,,Russian Far East
+SCCS53,Yurak-Samoyeds,68,51.5,nene1249,Yurak Samoyed (SCCS53),xd632,Nenets; Yurak,1894,Samoyed and/or Nenets (RU04/RU41),RU04,68,51.5,Original,,Eastern Europe
+SCCS120,Yukaghir,64.75,153.5,nort2745,Yukaghir (SCCS120),xd634,,1850,,,64.75,153.5,Original,,Russian Far East
+SCCS118,Ainu,42.83,143,ainu1240,Ainu (SCCS118),xd635,Ainu (Hokkaido); Hokkaido,1880,Ainu (AB06),AB06,42.83,143,Original,,Eastern Asia
+SCCS116,Koreans,37.6,126.42,kore1280,Koreans (SCCS116),xd638,,1947,Korea (AA01),AA01,37.6,126.42,Original,,Eastern Asia
+SCCS114,Chekiang,31,120.08,wuch1236,Chinese (SCCS114),xd643,Chinese,1936,,,31,120.08,Original,,China
+SCCS67,Lolo,27.5,103.5,sich1238,Lolo (SCCS67),xd645,Yi; Nosu,1910,Yi (AE04),AE04,27.5,103.5,Original,,China
+SCCS115,Manchu,50,125.5,manc1252,Manchu (SCCS115),xd646,,1915,Manchu (AG01),AG01,50,125.5,Original,,China
+SCCS117,Japanese,34.67,133.67,nucl1643,Japanese (SCCS117),xd648,,1950,Okayama (AB43),AB43,34.67,133.67,Original,,Eastern Asia
+SCCS64,Burusho,36.43,74.58,buru1296,Burusho (SCCS64),xd654,,1934,Burusho (AV07),AV07,36.43,74.58,Original,,Indian Subcontinent
+SCCS68,Lepcha,27.5,89,lepc1244,Lepcha (SCCS68),xd655,Rong,1937,Lepcha (AK05),AK05,27.5,89,Original,,China
+SCCS62,Santal,23.5,87.17,sant1410,Santal (SCCS62),xd661,Santhal; Saontal,1940,Santal (AW42),AW42,23.5,87.17,Original,,Indian Subcontinent
+SCCS63,Uttar Pradesh,25.92,83,bhoj1244,Uttar Pradesh (SCCS63),xd663,,1945,Uttar (AW19),AW19,25.92,83,Original,,Indian Subcontinent
+SCCS60,Madia,19.63,80.92,mari1414,Gond (SCCS60),xd679,Maria Gond; Gond,1938,Gond (AW32),AW32,19.63,80.92,Original,"Note 8Feb2018: Changed based on note by HH: Unclear why this is attributed to Dandami Maria rather than Maria [mrr]. Focus according to White SCCS pinpointing sheets: ""Hill Maria Gond of Antagarh and northern Kutru Districts, Bastar State.""",Indian Subcontinent
+SCCS61,Toda,11.5,76.5,toda1252,Toda (SCCS61),xd680,,1900,Toda (AW60),AW60,11.5,76.5,Original,,Indian Subcontinent
+SCCS79,Andamanese,12,93,akab1249,Andamanese (SCCS79),xd686,Big Andaman Island; Andamese,1860,Andamans (AZ02),AZ02,11.75,93.08,Revised,Changed to abj from apq on 8 April 2017 based on comments from H. Hammarström: Man (1885) worked most with (and whose variety he spoke best) Bojingya or Aka-Bea [abj],Indo-China
+SCCS81,Tanala,-22,48,tana1285,Tanala (SCCS81),xd689,,1925,Tanala (FY08),FY08,-22,48,Original,,Western Indian Ocean
+SCCS80,Vedda,7.75,81.25,vedd1240,Vedda (SCCS80),xd690,Wanniyalaeto; Veddah,1860,Vedda (AX05),AX05,7.75,81.25,Original,,Indian Subcontinent
+SCCS78,Nicobarese,7,93.75,carn1240,Nicobarese (SCCS78),xd691,Holchu,1870,,,7,93.75,Original,,Indo-China
+SCCS69,Garo,26,91,garo1247,Garo (SCCS69),xd696,A.Chik,1955,Garo (AR05),AR05,26,91,Original,,Indian Subcontinent
+SCCS71,Burmese,22,95.67,nucl1310,Burmese (SCCS71),xd709,Bamar people,1965,Burmans (AP04),AP04,22,95.67,Original,,Indo-China
+SCCS70,Maras,22.33,93,mara1382,Lakher (SCCS70),xd710,Lakher,1930,,,22.33,93,Original,,Indian Subcontinent
+SCCS72,Lamet,20,100.67,lame1256,Lamet (SCCS72),xd716,,1940,,,20,100.67,Original,,Indo-China
+SCCS74,Rade,13,108,rade1240,Rhade (SCCS74),xd717,Rhade,1962,,,13,108,Original,,Indo-China
+SCCS75,Ancient Khmer,13,103.83,oldk1249,Khmer (SCCS75),xd722,Khmer,1292,,,13,103.83,Original,"Changed to [oldk1249][qok] by kk on 5Sept2018. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Indo-China
+SCCS82,Negri Sembilan,2.58,102.25,nege1240,Negri Sembilan (SCCS82),xd723,Negeri Sembilan,1958,,,2.58,102.25,Original,,Malesia
+SCCS77,Semang,5,101.25,kens1248,Semang (SCCS77),xd725,,1925,Semang (AN07),AN07,5,101.25,Original,,Malesia
+SCCS73,Annamese,20.5,106.25,viet1252,Vietnamese (SCCS73),xd726,Vietnamese,1930,Vietnam (AM11),AM11,20.5,106.25,Original,,Indo-China
+SCCS76,Thai,14,100.85,thai1261,Siamese (SCCS76),xd731,Siamese; Central Thai,1955,,,14,100.85,Original,,Indo-China
+SCCS113,Atayal,24.33,120.75,atay1247,Atayal (SCCS113),xd732,,1930,,,24.33,120.75,Original,,Eastern Asia
+SCCS86,Badjau Tawi-Tawi,5,120,sout2918,Badjau (SCCS86),xd736,Tawi-Tawi Badjaw; Badjau,1963,,,5,120,Original,,Malesia
+SCCS112,Ifugao,16.83,121.17,tuwa1243,Ifugao (SCCS112),xd743,,1910,Ifugao (OA19),OA19,16.83,121.17,Original,"Changed to ifk from ifb on 8 April 2017 based on comment from H. Hammarström: Barton is source, and while he doesn't say specifically which group his observations pertain to, he was working using Kiangan as his base, which would make it Ifugao-Tuwali [ifk]",Malesia
+SCCS85,Iban,2,113,iban1264,Iban (SCCS85),xd750,Dayak; Sea Dayak,1950,Iban (OC06),OC06,2,113,Original,,Malesia
+SCCS83,Javanese,-7.7,112.22,java1254,Javanese (SCCS83),xd751,,1954,Javanese (OE05),OE05,-7.7,112.22,Original,"Note, previously linked to language iso ""jas"" (New Caledonian Javanese); on 3Mar2016 Hannah Haynie checked refs/coordinates and concluded ""jav"" was a better match; it was temporarily switched back to [jas/newc1244] on 8Aug2018 but that was a mistake, should be [jav]/[java1254] (updated note: 5Sept2018 kk)",Malesia
+SCCS84,Balinese,-8.5,115.33,bali1278,Balinese (SCCS84),xd752,,1958,Bali (OF07),OF07,-8.5,115.33,Original,"Note, previously linked to language iso ""mhp"" (Malay, Balinese). Hannah Haynie checked refs/coordinates and concluded ""ban"" (Bali, glottocode bali1278) was a better match (3 Mar 2016)",Malesia
+SCCS88,Tobelorese,2,127.94,tobe1252,Tobelorese (SCCS88),xd760,Togutil,1900,,,2,128,Revised,,Malesia
+SCCS89,Alorese,-8.33,124.67,abui1241,Alorese (SCCS89),xd764,Abui,1938,Alor (OF05),OF05,-8.33,124.67,Original,Changed from aol to abz on 8 April 2017 based on comment from H. Hammarström: Sources are DuBois and Nicolspeyer. They both worked with Abui (abz) speakers.,Malesia
+SCCS87,Toradja,-2,121,pamo1252,Toradja (SCCS87),xd767,,1910,Toradja (OG11),OG11,-2,121,Original,"Changed to pamo1252 (pmf, Pamona) from tora1261 (sda, Sa'dan) on 3Oct2018. Reason: the SCCS focus is on the Bare'e subgroup, which is the focus of (Adriani and Kruijt, 1912). Harald Hammarstrom notes that this group speaks Pamona [pmf], not Sa'dan [sda]. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Malesia
+SCCS91,Northern Aranda,-24.25,133.5,east2379,Aranda (SCCS91),xd772,Aranda (Northern); Northern Arenda; Arunta,1896,Aranda (OI08),OI08,-24.25,133.5,Original,"Note 8Feb2018: Not changed, despite note from HH: ""Why is Strehlow not associated rather with Western Arrarnta [are]"". According to White SCCS Pinpointing sheets, focus is ""The Arunta Mbainda of Alice Springs: [...] closely studied by Spencer and Gillen in 1896, restudied in 1901, and visited by Spencer in 1926 for some follow-up reconstruction work with several informants."" [So, Strehlow was perhaps used for supporting materials?]",Australia
+SCCS90,Tiwi,-11.38,131,tiwi1244,Tiwi (SCCS90),xd778,,1929,Tiwi (OI20),OI20,-11.38,131,Original,,Australia
+SCCS94,Mee,-4,136,ekar1243,Kapauku (SCCS94),xd785,Kapauku,1955,Kapauku (OJ29),OJ29,-4,136,Original,,Papuasia
+SCCS95,Kwoma,-4.17,142.67,kwom1262,Kwoma (SCCS95),xd788,,1937,Kwoma (OJ13),OJ13,-4.17,142.67,Original,,Papuasia
+SCCS93,Kimam,-7.5,138.5,kima1246,Kimam (SCCS93),xd794,Frederik-Hendrik Islanders,1960,,,-7.5,138.5,Original,,Papuasia
+SCCS92,Orokaiva,-8.5,148,orok1269,Orokaiva (SCCS92),xd823,,1925,Orokaiva (OJ23),OJ23,-8.5,148,Original,,Papuasia
+SCCS111,Palauans,7.5,134.5,pala1344,Palauans (SCCS111),xd824,,1947,Belau (OR15),OR15,7.5,134.5,Original,,Northwestern Pacific
+SCCS107,Makin,3.38,172.99,bana1287,Gilbertese (SCCS107),xd829,Gilbertese,1890,,,3.5,172.33,Revised,,Southwestern Pacific
+SCCS108,Marshallese - Jaluit Atoll,6.28,169.49,rali1241,Marshallese (SCCS108),xd832,,1900,Marshallese (OR11),OR11,6,168.5,Revised,"12 Nov 2018 - preferred name updated and dialect assigment corrected (should have been Ralik, rali1241, not Ratak, rata1243).",Northwestern Pacific
+SCCS109,Trukese,7.34,151.6,chuu1238,Trukese (SCCS109),xd833,Chuukese,1947,Truk (OR19),OR19,7.4,151.67,Revised,,Northwestern Pacific
+SCCS110,Yapese,9.52,138.16,yape1248,Yapese (SCCS110),xd837,,1910,Yap (OR22),OR22,9.5,138.17,Revised,,Northwestern Pacific
+SCCS99,Siuai,-6.76,155.45,siwa1245,Siuai (SCCS99),xd841,,1939,Siwai (ON19),ON19,-7,155.33,Revised,,Papuasia
+SCCS98,Trobriands,-8.54,151.01,kili1267,Trobrianders (SCCS98),xd852,,1914,Trobriands (OL06),OL06,-8.64,151.01,Revised,,Papuasia
+SCCS97,Lesu,-2.71,151,nots1237,New Ireland (SCCS97),xd856,New Irelanders,1930,Lesu (OM24),OM24,-2.5,151,Revised,,Papuasia
+SCCS96,Manus,-2.17,147.17,tita1241,Manus (SCCS96),xd861,,1929,Manus (OM06),OM06,-2.17,147.17,Original,,Papuasia
+SCCS102,Mbau Fijians,-18,178.58,bauu1243,Mbau Fijians (SCCS102),xd867,,1840,,,-18,178.58,Original,,Southwestern Pacific
+SCCS101,Bunlap,-15.95,168.22,saaa1241,Pentecost (SCCS101),xd869,Pentecost,1953,,,-16,168,Revised,,Southwestern Pacific
+SCCS103,Ajie,-21.33,165.67,ajie1238,Ajie (SCCS103),xd871,,1845,,,-21.33,165.67,Original,,Southwestern Pacific
+SCCS106,Upolu Samoans,-13.94,-171.77,samo1305,Western Samoans (SCCS106),xd880,Western Samoans; Upolu,1829,Samoans (OU08),OU08,-13.75,-172,Revised,,Southwestern Pacific
+SCCS100,Tikopia,-12.29,168.83,tiko1237,Tikopia (SCCS100),xd881,,1930,Tikopia (OT11),OT11,-12.5,168.5,Revised,,Southwestern Pacific
+SCCS104,Māori,-35.33,174.17,maor1246,Maori (SCCS104),xd891,Maori,1820,Maori (OZ04),OZ04,-35.33,174.17,Original,,New Zealand
+SCCS105,Marquesans,-8.92,-140.17,nort2845,Marquesans (SCCS105),xd892,,1800,Marquesas (OX06),OX06,-8.92,-140.17,Original,,South-Central Pacific
+SCCS128,DeneTha,62,-122,sout2959,Slave (SCCS128),xd1034,Slave; Deh Cho (Southern Slavey); Slavey; Dene (distinguish from speakers of the Dene language),1940,,,62,-122,Original,,Subarctic America
+SCCS124,Copper Inuit,68.72,-112.53,copp1244,Copper Eskimo (SCCS124),xd1022,Kitlinermiut; Copper Eskimo,1915,Copper Eskimo (ND08),ND08,68,-112.5,Revised,,Subarctic America
+SCCS125,Montagnais,50,-74,mont1268,Montagnais (SCCS125),xd1048,Innu; Naskapi,1910,Montagnais (NH06),NH06,50,-74,Original,"Note 8Feb2018: Not changed, despite comment from HH: ""Naskapi [nsk] is a different lg from Montagnais [moe]"". KK: Decided to leave, after looking into ethnographic materials: Foci are Lake St. John Band and Mistassini band [see KK notes for geographical extent of their territories]. Speck and Heye (1921): ""[the] Pikwagami (""Flat lake,"" Lake St John), are an interior Montagnais culture intermediate between that of the coast and that of the eastern Naskapi and Mistassini. Therefore, Montagnais [moe] is more appropriate choice. ",Eastern Canada
+SCCS127,Northern Saulteaux,52,-95.5,alba1270,Saulteaux (SCCS127),xd1049,N. Saulteaux; North Sauteaux,1930,Ojibwa (NG06),NG06,52,-95.5,Original,,Western Canada
+SCCS129,Kaska,60,-131,kask1239,Kaska (SCCS129),xd1056,Nahane,1900,Kaska (ND12),ND12,60,-131,Original,,Subarctic America
+SCCS126,Mi'kmaq,46.99,-65,mikm1235,Micmac (SCCS126),xd1058,Micmac,1650,Mi'kmaq (NJ05),NJ05,46,-63,Revised,,Eastern Canada
+SCCS122,Deg Xit'an,62.5,-159.5,dege1248,Ingalik (SCCS122),xd1066,Ingalik,1885,,,62.5,-159.5,Original,,Subarctic America
+SCCS123,Aleut,55,-162.85,east2533,Aleut (SCCS123),xd1067,Unagan,1824,Aleut (NA06),NA06,55.25,-164,Revised,,Subarctic America
+SCCS131,Haida,54,-132.5,nort2938,Haida (SCCS131),xd1068,,1875,,,54,-132.5,Original,,Western Canada
+SCCS133,Twana,47.43,-123.25,twan1247,Twana (SCCS133),xd1079,,1860,,,47.43,-123.25,Original,,Northwestern U.S.A.
+SCCS134,Yurok,41.5,-124,yuro1248,Yurok (SCCS134),xd1101,,1850,Yurok (NS31),NS31,41.5,-124,Original,,Southwestern U.S.A.
+SCCS130,Eyak,60.5,-145,eyak1241,Eyak (SCCS130),xd1102,dAXunhyuu,1890,,,60.5,-145,Original,,Subarctic America
+SCCS132,Nuxalk,52.33,-126.5,bell1243,Bellacoola (SCCS132),xd1106,Nuxalkmc; Bellacoola; Bilqula; Bella Coola,1880,Nuxalk (NE06),NE06,52.33,-126.5,Original,,Western Canada
+SCCS135,Eastern Pomo,39,-123,east2545,Pomo (Eastern) (SCCS135),xd1116,Clear Lake Pomo; Eastern Pomo,1850,Pomo (NS18),NS18,39,-123,Original,,Southwestern U.S.A.
+SCCS136,Southern Valley Yokuts,35,-119.5,vall1251,Yokuts (Lake) (SCCS136),xd1123,Lake Yokuts; Tachi Yokuts; Chunut Yokuts,1850,Yokuts (NS29),NS29,35,-119.5,Original,,Southwestern U.S.A.
+SCCS138,Klamath,42.63,-121.67,klam1254,Klamath (SCCS138),xd1139,,1860,Klamath (NR10),NR10,42.63,-121.67,Original,,Northwestern U.S.A.
+SCCS137,Wadadokado,43.5,-119,nort1551,Paiute (Northern) (SCCS137),xd1155,Paiute; Northern Paiute,1870,Northern Paiute (NR13),NR13,43.5,-119,Original,,Northwestern U.S.A.
+SCCS150,Havasupai,35.83,-112.17,hava1249,Havasupai (SCCS150),xd1163,Plateau Yuma,1918,Plateau Yumans (NT14),NT14,35.83,-112.17,Original,,Southwestern U.S.A.
+SCCS139,Kutenai,49,-116.67,kute1249,Kutenai (SCCS139),xd1205,Ktunaxa; Kootenay; Kootenai,1890,,,49,-116.67,Original,,Western Canada
+SCCS140,Gros Ventre,48,-108,gros1243,Gros Ventre (SCCS140),xd1208,A'ani; A'aninin; Haaninin,1880,Gros Ventre (NQ13),NQ13,48,-108,Original,,Northwestern U.S.A.
+SCCS141,Hidatsa,47,-101,hida1246,Hidatsa (SCCS141),xd1214,,1836,,,47,-101,Original,,North-Central U.S.A.
+SCCS147,Comanche,34,-101.5,coma1245,Comanche (SCCS147),xd1222,,1870,Comanche (NO06),NO06,34,-101.5,Original,,South-Central U.S.A.
+SCCS143,Omaha,41.43,-96.5,omah1248,Omaha (SCCS143),xd1237,Dhegiha,1860,Omaha (NQ21),NQ21,41.43,-96.5,Original,,North-Central U.S.A.
+SCCS142,Pawnee,42,-100,pawn1254,Pawnee (SCCS142),xd1240,,1867,Pawnee (NQ18),NQ18,42,-100,Original,,North-Central U.S.A.
+SCCS144,Huron,44.5,-79,wyan1247,Huron (SCCS144),xd1244,Bear and Cord Peoples; Wendat; Ouendat; Attignaouantan; Attinniaoenten; Attigneenongnahac; Hatingeennonniahak,1634,,,44.5,-79,Original,,Eastern Canada
+SCCS145,Muscogee,32.93,-86,cree1270,Creek (SCCS145),xd1252,Creek; Taskigi Creek,1800,Creek (NN11),NN11,32.93,-86,Original,,Southeastern U.S.A.
+SCCS146,Natchez,31.5,-91.42,natc1249,Natchez (SCCS146),xd1256,,1718,,,31.5,-91.42,Original,,Southeastern U.S.A.
+SCCS148,Chiricahua,32,-109.5,mesc1238,Chiricahua (SCCS148),xd1259,Chiricahua Apache; Eastern Apache,1870,Eastern Apache (NT08),NT08,32,-109.5,Original,,Southwestern U.S.A.
+SCCS149,Zuni,35.67,-108.75,zuni1245,Zuni (SCCS149),xd1280,,1880,Zuni (NT23),NT23,35.67,-108.75,Original,,South-Central U.S.A.
+SCCS151,Tohono O'odham,32,-112,toho1246,Papago (SCCS151),xd1287,Papago,1910,O'Odham (NU79),NU79,32,-112,Original,,Southwestern U.S.A.
+SCCS152,Huichol,22,-105,huic1243,Huichol (SCCS152),xd1288,Wixárika,1890,,,22,-105,Original,,Mexico
+SCCS153,Aztec,19,-99.17,clas1250,Aztec (SCCS153),xd1301,Aztec of Tenochtitlan,1520,Aztec (NU07),NU07,19,-99.17,Original,,Mexico
+SCCS154,Sierra Popoluca,18.25,-94.83,high1276,Popoluca (SCCS154),xd1302,Popoluca; Soteapanec Zoque; Soteapan Zoque; Soteapaneco; Soteapan Soke,1940,,,18.25,-94.83,Original,,Mexico
+SCCS158,Guna,9.25,-78.5,sanb1242,Cuna (Tule) (SCCS158),xd1309,Dule; Tule; Cuna; Kuna,1927,Cuna (SB05),SB05,9.25,-78.5,Original,Note 22July2021: Glottocode changed by KK to sanb1242 from bord1248,Central America
+SCCS155,K'iche',15,-91,kich1262,Quiche (SCCS155),xd1313,Quiche,1930,,,15,-91,Original,,Central America
+SCCS157,Bribri,9,-83.25,brib1243,Bribri (SCCS157),xd1321,Talamanca,1917,Talamancans (SA19),SA19,9,-83.25,Original,,Central America
+SCCS156,Miskito,15.16,-84.29,misk1235,Miskito (SCCS156),xd1325,Mískitu; Mosquito,1921,Miskito (SA15),SA15,15,-83,Revised 22Jul2021 by KK to match Glottolog lat lon for language misk1235 as the original SCCS lat lon placed society in the ocean,,Central America
+SCCS161,Callinago,15.41,-61.27,isla1278,Callinago (SCCS161),xd1326,,1650,Island Carib (ST13),ST13,15.5,-60.5,Revised,"Note 8Feb2018: Changed to crb from car as focus is reported in White SCCS pinpointing shees as ""Dominica Island"" (See also note from HH: Most of the refs refer to Island Carib [crb] not Galibi Carib on the mainland.)",Caribbean
+SCCS159,Wayuu,11.92,-71.75,wayu1243,Goajiro (SCCS159),xd1331,Goajiro,1947,Goajiro (SC13),SC13,11.92,-71.75,Original,,Western South America
+SCCS160,Haitians,18.83,-72.17,hait1244,Haitians (SCCS160),xd1334,,1935,Haitians (SV03),SV03,18.83,-72.17,Original,,Caribbean
+SCCS162,Warao,9.08,-62,wara1303,Warrau (SCCS162),xd1335,Warrau,1935,Warao (SS18),SS18,9.08,-62,Original,,Northern South America
+SCCS164,Barama River Carib,7.42,-60.17,mura1272,Barama Carib (SCCS164),xd1346,Barama Carib; Carib,1932,Barama River Carib (SR09),SR09,7.42,-60.17,Original,"Note 24Sept2018 - KK has high confidence in this dialect assignment (mura1272). The Barama carib location is in Guyana; there is an Etnologue point for Carib here (7.42,-60.17 approx.). This URL gives the relative location of Carib dialects: https://www.mona.uwi.edu/dllp/jlu/ciel/pages/kalihna.htm.",Northern South America
+SCCS165,Saramaccan ,3.5,-55.75,sara1340,Saramacca (SCCS165),xd1349,Saramaccan of Suriname; Saramacca; Bush Negroes,1928,Saramaka (SR15),SR15,3.5,-55.75,Original,,Northern South America
+SCCS166,Munduruku,-6.5,-56.5,mund1330,Mundurucu (SCCS166),xd1353,Wuy Jugu; Mundurucu,1850,Mundurucu (SQ13),SQ13,-6.5,-56.5,Original,,Brazil
+SCCS163,Yanomami,2.42,-65,yano1261,Yanomamo (SCCS163),xd1361,Yanomamo; Yanoama,1965,Yanoama (SQ18),SQ18,2.42,-65,Original,,Northern South America
+SCCS173,Sirionó,-14.5,-63.5,siri1273,Siriono (SCCS173),xd1362,Miá; Siriono,1942,Siriono (SF21),SF21,-14.5,-63.5,Original,,Western South America
+SCCS169,Shuar,-3,-78,shua1257,Jivaro (SCCS169),xd1367,Jivaro,1920,Jivaro (SD09),SD09,-3,-78,Original,,Western South America
+SCCS167,Cubeo,1.25,-70.5,cube1242,Cubeo (SCCS167),xd1369,Jiwa; Tucano,1939,Tucano (SQ19),SQ19,1.25,-70.5,Original,,Western South America
+SCCS170,Amahuaca,-10.33,-72.25,amah1246,Amahuaca (SCCS170),xd1372,,1960,,,-10.33,-72.25,Original,,Western South America
+SCCS171,Inca,-13.5,-72,cusc1236,Inca (SCCS171),xd1374,,1530,Inca (SE13),SE13,-13.5,-72,Original,,Western South America
+SCCS172,Aymara,-16,-65.75,cent2142,Aymara (SCCS172),xd1375,,1940,Aymara (SF05),SF05,-16,-65.75,Original,,Western South America
+SCCS168,Chachi,1,-79,chac1249,Cayapa (SCCS168),xd1376,Cayapa,1908,Chachi (SD06),SD06,1,-79,Original,,Western South America
+SCCS186,Yahgan,-55.5,-69.5,yama1264,Yahgan (SCCS186),xd1383,,1865,Yahgan (SH06),SH06,-55.5,-69.5,Original,,Southern South America
+SCCS184,Mapuche,-38.5,-72.58,mapu1245,Mapuche (SCCS184),xd1384,,1950,Aracuanians (SG04),SG04,-38.5,-72.58,Original,,Southern South America
+SCCS185,Tehuelche,-40.5,-68,tehu1242,Tehuelche (SCCS185),xd1386,Patagon,1870,Tehuelche (SH05),SH05,-40.5,-68,Original,,Southern South America
+SCCS183,Abipón,-28,-59.5,abip1241,Abipon (SCCS183),xd1390,Abipon; Abipones,1750,Abipon (SI04),SI04,-28,-59.5,Original,,Southern South America
+SCCS182,Lengua,-23,-58.5,nort2971,Lengua (SCCS182),xd1396,,1889,,,-23,-58.5,Original,,Southern South America
+SCCS175,Trumai,-11.83,-53.67,trum1247,Trumai (SCCS175),xd1399,Ho kod ke,1938,Trumai (SP23),SP23,-11.83,-53.67,Original,,Brazil
+SCCS174,Nambikwara,-13,-58.75,sout2994,Nambicuara (SCCS174),xd1401,Nambicura,1940,Nambicuara (SP17),SP17,-13,-58.75,Original,,Brazil
+SCCS181,Cayua,-23.5,-55,mbya1239,Cayua (SCCS181),xd1408,Abá; Cayua; Caingua; Guaraní; Guarani,1890,Cayua (SM04),SM04,-23.5,-55,Original,,Brazil
+SCCS179,Shavante,-13.5,-51.5,xava1240,Shavante (SCCS179),xd1409,,1958,,,-13.5,-51.5,Original,,Brazil
+SCCS180,Aweikoma,-28,-50,xokl1240,Aweikoma (SCCS180),xd1411,Xokleng; Shokleng; Botocudo of Santa Catarina; Bugre; Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups),1932,Xokleng (SM03),SM03,-28,-50,Original,,Brazil
+SCCS176,Canela,-6.5,-46,cane1242,Timbira (SCCS176),xd1412,Ramcocamecra; Timbira; Canella,1915,Canela (SO08),SO08,-6.5,-46,Original,,Brazil
+SCCS178,Aimoré,-19,-42.5,kren1239,Botocudo (SCCS178),xd1413,Nac-nanuk; Nac-poruk; Botocudo,1884,,,-19,-42.5,Original,,Brazil
+SCCS177,Tupinambá,-22.79,-44.5,tupi1273,Tupinamba (SCCS177),xd1416,Tupinamba,1550,Tupinamba (SO09),SO09,-22.79,-44.5,Original,,Brazil
