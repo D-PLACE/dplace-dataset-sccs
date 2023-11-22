@@ -10,4 +10,5 @@ The D-PLACE data was rearranged to make it possible to curate constituent
 datasets independently.
 
 - Corrected location of Barabra (SCCS39)
+- Corrected name of Chekiang (SCCS114)
 
