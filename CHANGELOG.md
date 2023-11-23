@@ -11,4 +11,5 @@ datasets independently.
 
 - Corrected location of Barabra (SCCS39)
 - Corrected name of Chekiang (SCCS114)
+- Updated HRAF mappings according to HRAF's Cross Cultural Concordance
 

@@ -14,9 +14,16 @@
     "dcat:accessURL": "https://github.com/D-PLACE/dplace-dataset-sccs",
     "prov:wasDerivedFrom": [
         {
+            "rdf:about": "https://hraf.yale.edu/cross-cultural-concordance/",
+            "rdf:type": "prov:Entity",
+            "dc:created": "2020",
+            "dc:title": "HRAF Cross Cultural Concordance",
+            "dc:bibliographicCitation": "Ember et al. 2020. HRAF Cross Cultural Concordance."
+        },
+        {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-sccs",
             "rdf:type": "prov:Entity",
-            "dc:created": "fb7b05a",
+            "dc:created": "b64e3ab",
             "dc:title": "Repository"
         },
         {
