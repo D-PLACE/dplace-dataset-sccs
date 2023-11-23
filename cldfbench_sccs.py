@@ -10,8 +10,6 @@ class Dataset(DatasetWithSocieties):
     def local_makecldf(self, args):
         ehraf = {'SCCS' + row['SCCS ID']: (row['eHRAF ID'], row['eHRAF Name']) for row in self.etc_dir.read_csv('ehraf-ccr.csv', dicts=True) if row['SCCS ID'] != 'None'}
         for row in args.writer.objects['LanguageTable']:
-            if row['HRAF_ID'] and row['HRAF_ID'] != ehraf[row['ID']][0]:
-                print(ehraf[row['ID']], row['HRAF_ID'])
             row['HRAF_ID'] = ehraf[row['ID']][0]
             row['HRAF_name_ID'] = '{} ({})'.format(ehraf[row['ID']][1], ehraf[row['ID']][0])
 

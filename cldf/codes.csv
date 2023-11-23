@@ -4583,9 +4583,9 @@ SCCS712-1,SCCS712,No items present,No items present,1
 SCCS712-2,SCCS712,One or two items present,One or two item present,2
 SCCS712-3,SCCS712,Three of four items present,Three of four items present,3
 SCCS713-NA,SCCS713,NA,Missing data,99
-SCCS713-1,SCCS713,Preclassical,"Classical religion (Xianity, Islam, Hinduism, Buddhism)",1
+SCCS713-1,SCCS713,"Classical religion (Xianity, Islam, Hinduism, Buddhism)",Classical,1
 SCCS713-2,SCCS713,Mixture of classical & preclassical,Mixture of classical and preclassical,2
-SCCS713-3,SCCS713,"Classical religion (Xianity, Islam, Hinduism, Buddhism)",Preclassical,3
+SCCS713-3,SCCS713,Preclassical religion,Preclassical,3
 SCCS714-NA,SCCS714,NA,Missing data,99
 SCCS714-1,SCCS714,Female excess,Female excess,1
 SCCS714-2,SCCS714,Roughly equal,Roughly equal,2
