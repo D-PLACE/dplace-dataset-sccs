@@ -1292,8 +1292,6 @@ SCCS213,7,"Nonestablishment of a common household, i.e., where both spouses rema
 SCCS213,8,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",Patrilocal
 SCCS213,9,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",Uxorilocal
 SCCS213,10,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",Virilocal
-SCCS213,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",Ambi-uxo
-SCCS213,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",Ambi-viri
 SCCS214,NA,Missing data,Missing data
 SCCS214,1,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",Wife to husband
 SCCS214,2,Couple to either group or neolocal,Ambi/neo-local
@@ -1310,8 +1308,6 @@ SCCS215,7,"Nonestablishment of a common household, i.e., where both spouses rema
 SCCS215,8,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",Patrilocal
 SCCS215,9,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",Uxorilocal
 SCCS215,10,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",Virilocal
-SCCS215,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",Ambi-uxo
-SCCS215,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",Ambi-viri
 SCCS217,NA,Missing data,Missing data
 SCCS217,1,"Avunculocal, i.e., normal residence with or near the maternal uncle or other male matrilineal kinsmen of the husband",Avunculocal
 SCCS217,2,"Ambilocal, i.e., residence established optionally with or near the parents of either the husband or the wife, depending upon circumstances or personal choice, where neither alternative exceeds the other in actual frequency by a ratio greater than two to one.",Ambilocal

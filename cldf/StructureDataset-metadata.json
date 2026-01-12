@@ -23,7 +23,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-sccs",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
@@ -350,7 +350,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 10144,
+            "dc:extent": 10140,
             "tableSchema": {
                 "columns": [
                     {
